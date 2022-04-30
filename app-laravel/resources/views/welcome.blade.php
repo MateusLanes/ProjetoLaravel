@@ -30,8 +30,8 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Home <span class="sr-only"></span></a>
-      <a class="nav-item nav-link" href="#">Contatos</a>
-      <a class="nav-item nav-link" href="#">Sobre</a>
+      <a class="nav-item nav-link" href="#">Contacts</a>
+      <a class="nav-item nav-link" href="#">Angle</a>
      
     </div>
   </div>
